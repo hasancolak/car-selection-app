@@ -1,0 +1,31 @@
+.filter-content {
+    margin: 20px auto;
+    background-color: #f7f7f9;
+    padding: 40px;
+    color: #363145;
+    text-align: left;
+}
+.filter-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 8px auto;
+    max-width: 600px;
+}
+
+.filter-box select,
+.filter-box input {
+    padding: 10px 8px;
+}
+
+.filter-box input {
+    width: 80px;
+}
+
+.filter-input {
+    width: 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+    
